@@ -74,7 +74,9 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 venv/
-.env
-db.sqlite3
+.env/
+db.sqlite3/
 
 __pycache__/
+
+aws_pragmatic_key.pem/
